@@ -1,0 +1,31 @@
+.fullwidth{
+    width: 100%;
+}
+.no_pad{
+    padding-left: 0;
+    padding-right: 0;
+}
+.no_mar{
+    margin-left: 0;
+    margin-right: 0;
+}
+.intro{min-height: 770px;background-image:url(introbg.jpg);background-repeat: no-repeat;background-position: center;background-size: cover; }
+.navbar-default{border: none;background-color: transparent;}
+.navbar-default .navbar-nav>li>a{color: white;padding-right: 50px;}
+.header{padding-top: 1%;}
+.intro_text_part{color: white;}
+.heading{font-size: 40pt;letter-spacing: 1;}
+.heading_er_niche{font-size: 12pt;line-height: 2;}
+.buttongula{padding-top: 5%;}
+.ndpart{min-height: 600px;}
+.f_header{font-size: 25pt;}
+.f_para{10pt;line-height: 2;}
+.f_text{padding-top: 50%;}
+.ndpart{padding-top: 7%;}
+.greentext{color: #2ecc71;}
+.diet{min-height: 400px;background-image: url(dietbg.jpg);background-repeat: no-repeat;background-position: center;background-size:cover; }
+.dietheader{text-align: center;padding-top: 3%;}
+.threephonespos{padding-top: 5%;}
+.mealplantext{padding-top: 35%;}
+.footer{background-image: url(introbg.jpg);background-repeat: no-repeat;background-size: cover;color: white;}
+.getappbutton{background-color: white;color: #2ecc71;border: none;padding: 3% 30%;border-radius: 30px;display: block;margin: 0 auto;margin-top: 20%;}
